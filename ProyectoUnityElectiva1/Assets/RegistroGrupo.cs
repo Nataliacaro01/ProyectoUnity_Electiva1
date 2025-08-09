@@ -16,4 +16,13 @@ public class NewMonoBehaviourScript : MonoBehaviour
     //	Nombre	completo:	Natalia Caro
     // 	Fecha:	26/07/2025
     //	Hora:	21:44 
+
+    //	Nombre	completo:	Carlos Doncel
+    // 	Fecha:	26/07/2025
+    //	Hora:	22:00
+
+    //	Nombre	completo:	Juan Gutierrez
+    // 	Fecha:	26/07/2025
+    //	Hora:	22:38
+
 }
